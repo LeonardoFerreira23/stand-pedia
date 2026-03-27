@@ -1,0 +1,29 @@
+// schema.prisma
+
+datasource db {
+  provider = "postgresql"
+}
+
+generator client {
+  provider = "prisma-client-node"
+}
+
+model Stand {
+  id              String   @id @default(uuid())
+  name            String   @unique
+  user            String
+  part            Int      
+  abilitySummary  String   @db.Text
+  musicalReference String?
+  
+  // Atributos de JoJo (A, B, C, D, E, Infinite ou Null)
+  power           String   @default("C")
+  speed           String   @default("C")
+  range           String   @default("C")
+  durability      String   @default("C")
+  precision       String   @default("C")
+  potential       String   @default("C")
+
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
