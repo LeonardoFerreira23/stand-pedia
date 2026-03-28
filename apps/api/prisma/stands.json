@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Tusk (Act 1)",
+    "user": "Johnny Joestar",
+    "part": 7,
+    "abilitySummary": "Permite ao usuário disparar as próprias unhas como balas giratórias de alta velocidade, usando o poder do Spin.",
+    "musicalReference": "Tusk (Álbum da banda Fleetwood Mac)",
+    "power": "E",
+    "speed": "E",
+    "range": "D",
+    "durability": "B",
+    "precision": "E",
+    "potential": "A"
+  },
+
+  {
+    "name": "Ball Breaker",
+    "user": "Gyro Zeppeli",
+    "part": 7,
+    "abilitySummary": "Seu poder pode acelerar o fluxo de energia das células de um ser vivo, causando a sua destruição e causando um aparente envelhecimento forçado da vítima, transformado um homem saudável em um homem calvo em poucos segundos.",
+    "musicalReference": "Ballbreaker (Álbum e música do AC/DC)",
+    "power": "A",
+    "speed": "A",
+    "range": "D",
+    "durability": "B",
+    "precision": "C",
+    "potential": "B"
+  },
+
+  {
+    "name": "Ticket to Ride",
+    "user": "Lucy Steel",
+    "part": 7,
+    "abilitySummary": "Ticket to Ride consiste de um conjunto de poderes fracos mas úteis para defesa que servem para proteger Lucy uma vez que ela se torna a hospedeira do Cadáver do Santo.",
+    "musicalReference": "Ticket to Ride (Música de The Beatles)",
+    "power": "E",
+    "speed": "E",
+    "range": "E",
+    "durability": "C",
+    "precision": "E",
+    "potential": "C"
+  },
+
+  {
+    "name": "Dirty Deeds Done Dirt Cheap",
+    "user": "Funny Valentine",
+    "part": 7,
+    "abilitySummary": "Dirty Deeds Done Dirt Cheap permite que diferentes mundos/dimensões paralelas coexistam ao mesmo tempo e/ou no mesmo lugar. Também permite que seu usuário visite esses mundos/dimensões paralelas e interaja com eles.",
+    "musicalReference": "Dirty Deeds Done Dirt Cheap (Música de AC/DC)",
+    "power": "A",
+    "speed": "A",
+    "range": "C",
+    "durability": "A",
+    "precision": "A",
+    "potential": "A"
+  }
+
+
+]
